@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCLEAN", "WPFCLEAN.csproj", "{5724C018-002B-4F4F-9BB6-9185BDD7AFB1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DaJeCLEAN", "..\Install_DaJeCLEAN\DaJeCLEAN\DaJeCLEAN.vdproj", "{06C57594-06E3-4DA8-9C1D-983820A9968D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5724C018-002B-4F4F-9BB6-9185BDD7AFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5724C018-002B-4F4F-9BB6-9185BDD7AFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5724C018-002B-4F4F-9BB6-9185BDD7AFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5724C018-002B-4F4F-9BB6-9185BDD7AFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C57594-06E3-4DA8-9C1D-983820A9968D}.Debug|Any CPU.ActiveCfg = Debug
+		{06C57594-06E3-4DA8-9C1D-983820A9968D}.Debug|Any CPU.Build.0 = Debug
+		{06C57594-06E3-4DA8-9C1D-983820A9968D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E37DFA1E-6D6D-453E-A389-5333AEB72FA4}
+	EndGlobalSection
+EndGlobal
